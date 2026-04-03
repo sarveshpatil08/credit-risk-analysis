@@ -21,7 +21,7 @@ To identify high-risk loan applicants using financial and demographic data to su
 - Financial stress is a major indicator of risk
 
 ## 📈 Dashboard
-(Add screenshot here if you want)
+![Dashboard](FA_Dashbrd_SS.png)
 
 ## 🚀 Outcome
 Developed an end-to-end analytics solution to identify high-risk customers and support data-driven loan decisions.
