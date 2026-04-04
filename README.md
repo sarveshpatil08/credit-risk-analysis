@@ -15,6 +15,11 @@ To identify high-risk loan applicants using financial and demographic data to su
 - Built a logistic regression model in Python
 - Created an interactive dashboard in Power BI
 
+- ## 🧠 Key Learnings
+- Importance of feature engineering in financial data
+- Handling imbalanced datasets
+- Avoiding data leakage in modeling
+
 ## 📊 Key Insights
 - High-risk customers have significantly higher loan-to-income ratios
 - Lower income groups show higher risk concentration
@@ -22,6 +27,11 @@ To identify high-risk loan applicants using financial and demographic data to su
 
 ## 📈 Dashboard
 ![Dashboard](FA_Dashbrd_SS.png)
+
+## 💡 Business Impact
+- Helps banks reduce default risk
+- Improves loan approval decisions
+- Enables risk-based customer segmentation
 
 ## 🚀 Outcome
 Developed an end-to-end analytics solution to identify high-risk customers and support data-driven loan decisions.
